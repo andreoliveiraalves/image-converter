@@ -1,1 +1,8 @@
-{}
+{
+  "main-title": "ChangePix",
+  "title": "A minimalist image converter",
+  "upload": {
+    "circle": "Drag your files here",
+    "text": "Click the circle or drag your files into it"
+  }
+}

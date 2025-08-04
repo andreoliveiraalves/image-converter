@@ -23,7 +23,7 @@ const toggleTheme = () => {
     root.classList.remove('dark')
     root.classList.add('light')
   }
-  localStorage.setItem('vueuse-color-scheme', isDark.value ? 'dark' : 'light')
+  localStorage.setItem('color-scheme', isDark.value ? 'dark' : 'light')
 }
 </script>
 
